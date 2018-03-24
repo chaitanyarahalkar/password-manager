@@ -1,0 +1,15 @@
+{
+  "name": "passwordmanager",
+  "version": "1.0.0",
+  "description": "Password Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaitanya Rahalkar,Dhaval Gujar,Yakshit Jain",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "scrypt": "^6.0.3"
+  }
+}
