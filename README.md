@@ -24,3 +24,35 @@ pwm@node$ npm install
 pwm@node$ npm start
 
 ```
+
+### Read the Paper 
+
+We wrote a paper about it! Check it [here](https://bit.ly/2s1K74f)
+
+### Authors
+
+**Chaitanya Rahalkar**
+
+* Twitter: [@chairahalkar](https://twitter.com/chairahalkar)
+* Github: [@chaitanyarahalkar](https://github.com/chaitanyarahalkar)
+
+**Dhaval Gujar**
+
+* Twitter: [@chairahalkar](https://twitter.com/dhavalgujar)
+* Github: [@chaitanyarahalkar](https://github.com/dhavalgujar)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/chaitanyarahalkar/password-manager/issues).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2019 [Chaitanya Rahalkar](https://github.com/chaitanyarahalkar).<br />
+This project is [MIT](https://github.com/chaitanyarahalkar/password-manager/blob/master/LICENSE) licensed.
+
+***
+
