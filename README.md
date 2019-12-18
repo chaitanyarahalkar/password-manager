@@ -36,8 +36,8 @@ We wrote a research paper about it! Check it [here](https://bit.ly/2s1K74f)
 
 **Dhaval Gujar**
 
-* Twitter: [@chairahalkar](https://twitter.com/dhavalgujar)
-* Github: [@chaitanyarahalkar](https://github.com/dhavalgujar)
+* Twitter: [@dhavalgujar](https://twitter.com/dhavalgujar)
+* Github: [@dhavalgujar](https://github.com/dhavalgujar)
 
 #### Contributing
 
