@@ -1,4 +1,4 @@
-# A Secure Password Manager
+# A Secure Password Manager ![pwm](icon-pwm.png)
 
 ### What is a Password Manager? 
 
