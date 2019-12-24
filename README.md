@@ -1,4 +1,6 @@
-# A Secure Password Manager ![pwm](icon-pwm.png)
+<img align="left" width="80" height="80" src="icon-pwm.png" alt="Password Manager">
+
+# A Secure Password Manager 
 
 ### What is a Password Manager? 
 
