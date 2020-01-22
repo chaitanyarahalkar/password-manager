@@ -17,9 +17,28 @@ their own set of problems. The offline version requires that the file containing
 
 
 ### Building and Running the Project
+On Debian based distributions use apt to install node-gyp, a dependency required by the Scrypt module.
+
+```bash
+
+pwm@node$  sudo apt install node-gyp
+
+```
+
+Or it can also be installed using npm with sudo permissions. 
+
+```bash
+
+pwm@node$: sudo npm install -g node-gyp
+
+```
+
+Finally, clone the project and install the NPM dependencies. 
 
 ```bash 
 
+pwm@node$ git clone https://github.com/chaitanyarahalkar/password-manager
+pwm@node$ cd password-manager
 pwm@node$ npm install 
 pwm@node$ npm start
 
