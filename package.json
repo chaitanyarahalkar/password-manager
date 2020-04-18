@@ -4,7 +4,7 @@
   "description": "Password Manager",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node index.js"
   },
   "author": "Chaitanya Rahalkar,Dhaval Gujar,Yakshit Jain",
   "license": "ISC",
