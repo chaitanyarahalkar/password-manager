@@ -261,14 +261,18 @@ rl.question('Please enter the Name: ', (name) => {
             rl.question('Please enter the type: ', (type) => {
                 key = create_key(master_password, name);
                 seed = create_template(key, site_name, 1);
-                password = create_password(seed, type);
-
+                if(type == "phrase"){
+                    password = create_passphrase(seed);
+                }
+                else{
+                    password = create_password(seed, type);
+                }
                 console.log(`${password}`);
 
-                RSAPublickey = create_rsa_keys(seed, 0);
-                RSAPrivatekey = create_rsa_keys(seed, 1);
+                //RSAPublickey = create_rsa_keys(seed, 0);
+                //RSAPrivatekey = create_rsa_keys(seed, 1);
 
-                aes_encrypt(seed, RSAPublickey)
+                //aes_encrypt(seed, RSAPublickey)
 
                 rl.close();
             });
